@@ -44,9 +44,14 @@ I specialize in:
 ### 🏅 HackerRank Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Advanced-brightgreen?logo=hackerrank" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue?logo=hackerrank" />
+  <a href="https://www.hackerrank.com/certificates/iframe/e56e964753e9">
+    <img src="https://img.shields.io/badge/SQL-Advanced-brightgreen?logo=hackerrank" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/e56e964753e9">
+    <img src="https://img.shields.io/badge/Python-Intermediate-blue?logo=hackerrank" />
+  </a>
 </p>
+
 
 
 
